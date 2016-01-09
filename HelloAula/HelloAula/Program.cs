@@ -8,7 +8,11 @@ namespace HelloAula
 		{
 			                     // Примери от модул 02 AULA
 			
-		                                                        	// Дефиниране на променливи
+			string program_name = "Модул 02-примери";              //For the programe 
+			string program_version="0.1";
+
+
+			                                                       // Дефиниране на променливи
 			int a = 0, b = 0;
 			int sum = 0;
 
@@ -16,6 +20,8 @@ namespace HelloAula
 			a = 10;
 			b = 5;
 			sum = a + b;
+			Console.WriteLine (program_name);
+			Console.WriteLine ("Version: "+program_version +"\n\n");
 			                                                        // Печатане в конзолата
 			Console.Write (a);
 			Console.Write ("+");
