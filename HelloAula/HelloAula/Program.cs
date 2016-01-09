@@ -6,8 +6,12 @@ namespace HelloAula
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello Aula!");
-			Console.ReadKey ();
+			
+			// Дефиниране на променливи
+
+			// Събиране на числа
+
+			// Печатане в конзолата
 
 
 		}
