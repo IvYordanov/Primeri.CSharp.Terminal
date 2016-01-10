@@ -1,0 +1,6 @@
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\bin\Release\modul02.exe.config
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\bin\Release\modul02.exe
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\bin\Release\modul02.pdb
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\obj\Release\modul02.csprojResolveAssemblyReference.cache
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\obj\Release\modul02.exe
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\obj\Release\modul02.pdb

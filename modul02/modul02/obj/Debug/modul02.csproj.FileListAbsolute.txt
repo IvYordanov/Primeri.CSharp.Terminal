@@ -1,0 +1,1 @@
+C:\aula\Primeri.CSharp.Terminal\modul02\modul02\bin\Debug\modul02.exe.config
