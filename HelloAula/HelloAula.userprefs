@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="ReadFromComandLine\ReadFromComandLine.csproj">
+﻿<Properties StartupItem="TableProject\TableProject.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloAula\Program.cs">
     <Files>
