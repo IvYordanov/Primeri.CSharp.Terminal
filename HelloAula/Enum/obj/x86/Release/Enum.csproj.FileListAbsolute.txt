@@ -1,0 +1,4 @@
+C:\aula\Primeri.CSharp.Terminal\HelloAula\Enum\bin\Release\Enum.exe
+C:\aula\Primeri.CSharp.Terminal\HelloAula\Enum\bin\Release\Enum.pdb
+C:\aula\Primeri.CSharp.Terminal\HelloAula\Enum\obj\x86\Release\Enum.exe
+C:\aula\Primeri.CSharp.Terminal\HelloAula\Enum\obj\x86\Release\Enum.pdb

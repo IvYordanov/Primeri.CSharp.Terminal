@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFromComandLine", "ReadF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableProject", "TableProject\TableProject.csproj", "{0FB473CF-CEDC-42E3-A5BC-477424473A28}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{80265204-8EDC-4668-9A9F-A5001D1FA9DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,5 +27,9 @@ Global
 		{4F163B29-2525-4DD0-ADEC-55206E82CF96}.Debug|x86.Build.0 = Debug|x86
 		{4F163B29-2525-4DD0-ADEC-55206E82CF96}.Release|x86.ActiveCfg = Release|x86
 		{4F163B29-2525-4DD0-ADEC-55206E82CF96}.Release|x86.Build.0 = Release|x86
+		{80265204-8EDC-4668-9A9F-A5001D1FA9DC}.Debug|x86.ActiveCfg = Debug|x86
+		{80265204-8EDC-4668-9A9F-A5001D1FA9DC}.Debug|x86.Build.0 = Debug|x86
+		{80265204-8EDC-4668-9A9F-A5001D1FA9DC}.Release|x86.ActiveCfg = Release|x86
+		{80265204-8EDC-4668-9A9F-A5001D1FA9DC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
